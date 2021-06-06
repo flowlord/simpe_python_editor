@@ -2,3 +2,5 @@
 A simple python editor
 
 Warning ! python must be in your environment variable
+
+BY KARIM
